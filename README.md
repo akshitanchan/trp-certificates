@@ -1,7 +1,7 @@
 <div id="top"></div>
 <div align="center">
   <a href="https://github.com/sakshiorg/trp-certificate-generator">
-    <img src="assets/images/logo.png" alt="TRP Logo" width="80" height="80">
+    <img src="https://rakshinproject.org/wp-content/uploads/2021/01/Untitled-1.png" alt="TRP Logo" width="80" height="80">
   </a>
 
   <h3 align="center">TRP Certificate Generator</h3>
