@@ -94,7 +94,7 @@ The following list of prerequisites assumes that you have Python installed and a
 
 ## How to Use
 
-Place the prepared CSV file with list of certificate recipients into the assets folder (where the template sits). Begin running the `main.py` file. Select the options from the menu as necessary. If you select generation of certificates, a new folder with certificates will be generated. A pre-requisite for mailing certificates is that the generated certificates must be uploaded to a Google Drive, set to view with link, and a user with editor access to those files must authenticate the connection. You can then wait as the files are automatically sent via a Google Drive link (to reduce overhead in mail weight).
+Click [here](https://github.com/sakshiorg/trp-certificate-generator/archive/refs/heads/main.zip) to download the entire code as a zipped folder. Unzip the folder where appropriate. Place the prepared CSV file with list of certificate recipients into the assets folder (where the template.csv sits). Begin running the `main.py` file. Select the options from the menu as necessary. If you select generation of certificates, a new folder with certificates will be generated. A pre-requisite for mailing certificates is that the generated certificates must be uploaded to a Google Drive, set to view with link, and a user with editor access to those files must authenticate the connection. You can then wait as the files are automatically sent via a Google Drive link (to reduce overhead in mail weight).
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
