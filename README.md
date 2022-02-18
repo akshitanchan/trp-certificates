@@ -134,7 +134,9 @@ Distributed under the MIT License. See the `LICENSE` file for more information.
 ## Contact
 
 Name: Akshit Anchan
+<br>
 Website: [akshitanchan.com](https://akshitanchan.com)
+<br>
 E-mail: akshit@sakshi.org.in
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
