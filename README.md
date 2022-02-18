@@ -44,7 +44,6 @@
   </ol>
 </details>
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This auto-generator is a code-editor based program that was designed to generate TRP certificates at a large scale and sort them based on geolocation and the receiver's university. The code pumps out the certificates in PDF format. If these are uploaded to a Google Drive folder, you may also email the certificates to the student! This was made possible due to the extensive flexibility of Google's Drive API v3. Using the same and a proprietary SMTP relay, we have created a system that looks for the certificate and emails it to the receiver via SMTP. We have replaced the standard plain-text email format with a heavily-optimized HTML mail format.
@@ -58,7 +57,7 @@ Use the `main.py` to get started.
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
-### Built With
+## Built With
 
 Here is a list of the frameworks, libraries and modules we have used to bootstrap this project.
 
