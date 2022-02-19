@@ -50,8 +50,7 @@ This auto-generator is a code-editor based program that was designed to generate
 
 Here's why this project was made:
 * You shouldn't be doing the same tasks over and over.
-* Your time should be focused on building something amazing.
-* You shouldn't have to repeat DRY processes in your workplace :smile:
+* Your time should be focused on building something amazing :smile:
 
 Use the `main.py` to get started.
 
