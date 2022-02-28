@@ -91,10 +91,10 @@ while True:
 
         def connect_mail_server():
             global server
-            server = smtplib.SMTP('smtp.netcorecloud.net:587')
-            server.connect('smtp.netcorecloud.net', 587)
+            server = smtplib.SMTP('REDACTED')
+            server.connect('REDACTED', REDACTED)
             server.starttls()
-            server.login("admin78q9w9","admin78q9w9_93877859cbe0a0ac99c328c07586e2d6")
+            server.login("REDACTED","REDACTED")
 
         def py_mail(body, receiver_name, receiver_mail):
             message = MIMEMultipart('alternative')
