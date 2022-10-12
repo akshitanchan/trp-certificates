@@ -191,5 +191,5 @@ while True:
         server.quit()
 
     if main_opt == 3:
-        print("Coolio. See you later.")
+        print("Cool. See you later.")
         break
