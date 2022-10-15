@@ -1,8 +1,4 @@
-import argparse
-import subprocess
-import os.path
-import sys
-import shutil
+import argparse, subprocess, os.path, sys, shutil
 
 def compress(input_file_path, output_file_path, power=0):
     quality = {
